@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Dataset — too large for Git, contains personal data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Output files
+output.txt
